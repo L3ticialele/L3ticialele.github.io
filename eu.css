@@ -1,0 +1,126 @@
+body,html{
+    background-color: #F3CBFF;
+    min-height: 100%;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: cover;
+}
+
+#informacoes1{
+    display: flex;
+    flex-direction: row;
+}
+
+p{
+    font-size: 140%;
+}
+
+h1{
+    color: white;
+    background-color: #c305f8;
+    width: 100%;
+    padding: 5%;
+    margin-top: -5%;
+    border-radius: 10px 10px 0 0;
+    font-size: 300%;
+    text-align: center;
+    border-bottom: 5px solid white ;
+    text-shadow: 2px 2px black;
+}
+
+
+#foto{
+    border-radius: 50%;
+    border: 5px solid #c305f8;
+    width: 90%;
+}
+
+h2{
+    color: #c305f8;
+    text-shadow: 1px 1px white;
+}
+
+.opcoes{
+    background-color: #CB6CE6;
+    padding: 1%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin: 1%;
+}
+
+.opcoes:hover{
+    background-color: #c305f8;
+}
+
+#sobre{
+    font-size: 200%;
+    width: 100%;
+    padding-bottom: -2%;
+}
+
+
+
+#candidatando{
+    font-size: 145%;
+    width: 100%;
+}
+
+#expectativas{
+    font-size: 150%;
+    width: 100%;
+}
+
+#photo1{
+    margin-right: 2%;
+}
+
+#euzinha{
+    width: 40%;
+    margin-top: 2%;
+    margin-right: 60%;
+}
+
+
+#main{
+    margin: 5%;
+    margin-top: 3%;
+    padding: 4%;
+    display: flex;
+    flex-direction: column;
+    background-color: #F7E4FD;
+    border-radius: 20px;
+    align-items: center;
+    border: 5px solid #c305f8;
+}
+
+/*
+
+#ola{
+  margin-bottom: 0%;
+}
+
+#legenda{
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+    flex-direction: column;
+    margin-left: -5%;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+#opcoes{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    margin-top: -3%;
+}
+
+*/
